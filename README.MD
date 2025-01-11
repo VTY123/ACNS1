@@ -1,8 +1,8 @@
 <h1 align="center">Registration-Based Encryption with Black-Box Use of Identity-Based Encryption Schemes</h1>
 
-##Build Guid
+## Build Guid
 
-##Test
+## Test
 
 
 
