@@ -1,4 +1,4 @@
-<h1 align="center">RBE</h1>
+<h1 align="center">Registration-Based Encryption with Black-Box Use of Identity-Based Encryption Schemes</h1>
 
 
 ## Disclaimer
